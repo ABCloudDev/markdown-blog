@@ -1,0 +1,9 @@
+title: "My Markdown Blog"
+description: "A sample blog using Markdown on GitHub Pages"
+theme: minima
+author:
+  name: Your Name
+  email: you@example.com
+markdown: kramdown
+plugins:
+  - jekyll-feed
